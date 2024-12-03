@@ -1,16 +1,19 @@
-# graph_task
+# Flutter Orders & Graph Application
 
-A new Flutter project.
+This Flutter application demonstrates:
+- Displaying order details and metrics.
+- Showing a graph of orders over time using Syncfusion charts.
+- Responsive design for mobile and web.
 
+## Features
+- Load and display orders from a JSON file.
+- Metrics: Total Orders, Average Price, and Returns Count.
+- Interactive graph showing orders count vs time.
+- Responsive UI to adapt between mobile and web.
+  
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- Flutter installed (version 3.0.6).
+- Dart SDK.
+- Syncfusion license for Syncfusion Flutter charts package (or use community license).
